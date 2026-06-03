@@ -14,12 +14,13 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-Skill-10B981?style=flat-square&logo=openai&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-Skill-3B82F6?style=flat-square)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-8B5CF6?style=flat-square)
 
 </div>
 
 都是在自己工作流里跑通了一段时间，确实省事，才搬出来开源的。
 
-这里的每个 Skill 都是 Agent 能直接加载的结构化指令集，遵循 [Agent Skills](https://agentskills.io) 开放标准。Hermes、Claude Code、Codex、OpenCode 都能装。
+这里的每个 Skill 都是 Agent 能直接加载的结构化指令集，遵循 [Agent Skills](https://agentskills.io) 开放标准。Hermes、Claude Code、Codex、OpenCode、OpenClaw 都能装。
 
 ---
 
@@ -33,7 +34,7 @@
 
 ## 📦 安装方式
 
-在 Hermes、Claude Code、Codex、OpenCode 等支持 Skill 的 Agent 里，直接说：
+在 Hermes、Claude Code、Codex、OpenCode、OpenClaw 等支持 Skill 的 Agent 里，直接说：
 
 ```
 帮我安装这个 skill：https://github.com/yesaiwen/yesaiwen-skills/tree/main/short-video-inspiration

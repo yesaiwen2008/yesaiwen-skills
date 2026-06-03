@@ -13,12 +13,14 @@
 ![Hermes](https://img.shields.io/badge/Hermes-Skill-D97706?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-Skill-10B981?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-Skill-3B82F6?style=flat-square)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-8B5CF6?style=flat-square)
 
 </div>
 
 These are skills I've been using in my own workflow for a while. Only the ones that actually save time make it here.
 
-Each Skill is a structured instruction set that agents can load directly, following the [Agent Skills](https://agentskills.io) open standard. Works with Hermes, Claude Code, Codex, and OpenCode.
+Each Skill is a structured instruction set that agents can load directly, following the [Agent Skills](https://agentskills.io) open standard. Works with Hermes, Claude Code, Codex, OpenCode, and OpenClaw.
 
 ---
 
@@ -32,7 +34,7 @@ Each Skill is a structured instruction set that agents can load directly, follow
 
 ## 📦 Installation
 
-In any Skill-compatible agent (Hermes, Claude Code, Codex, OpenCode), just say:
+In any Skill-compatible agent (Hermes, Claude Code, Codex, OpenCode, OpenClaw), just say:
 
 ```
 Install this skill: https://github.com/yesaiwen/yesaiwen-skills/tree/main/short-video-inspiration
