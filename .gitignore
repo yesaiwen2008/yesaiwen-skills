@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Syncthing / cloud-sync conflict copies
+.sync-conflict-*
+
+# Local recovery / corrupted git directories
+.git.corrupt-*
+
+# Personal config — never publish
+CLAUDE.md
+AGENTS.md
+
+# Environment files with secrets
+.env
+.env.local
+
+# Tile files (auto-generated, regenerated on publish)
+*/tile.json
