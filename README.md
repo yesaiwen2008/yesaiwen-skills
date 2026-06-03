@@ -82,7 +82,7 @@ git clone https://github.com/yesaiwen/yesaiwen-skills.git
 
 **前提条件**
 
-1. **哼哼猫 API Key** — 从 [api.meowload.net](https://api.meowload.net) 获取，设置为环境变量：
+1. **哼哼猫 API Key** — 从 [hhm123.com/user/developer](https://hhm123.com/user/developer) 获取，设置为环境变量：
    ```bash
    export MEOWLOAD_API_KEY="your-api-key-here"
    ```

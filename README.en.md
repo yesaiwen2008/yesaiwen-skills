@@ -80,7 +80,7 @@ Extract actionable inspiration notes from short video links (Douyin, TikTok, Bil
 
 **Prerequisites**
 
-1. **MeowLoad API Key** — Get one from [api.meowload.net](https://api.meowload.net), set as env var:
+1. **MeowLoad API Key** — Get one from [hhm123.com/user/developer](https://hhm123.com/user/developer), set as env var:
    ```bash
    export MEOWLOAD_API_KEY="your-api-key-here"
    ```

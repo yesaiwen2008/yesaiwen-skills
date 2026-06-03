@@ -18,7 +18,7 @@ Extract actionable insights and transcripts from short video links (Douyin / Tik
 
 ### 1. Video Extraction API (MeowLoad)
 
-You need an API key from [MeowLoad (哼哼猫)](https://api.meowload.net). Set it as an environment variable:
+You need an API key from [哼哼猫 (MeowLoad)](https://hhm123.com/user/developer). Set it as an environment variable:
 
 ```bash
 export MEOWLOAD_API_KEY="your-api-key-here"
